@@ -1,1 +1,1 @@
-Neste estudo foi realizado uma série de análises exploratórias de dados logísticos fictícios de um e-commerce, onde foram explorados alguns dados estatísticos como: correlaão entre as variáveis, dimensão da distribuição dos dados, outliers, etc.
+Neste estudo foi realizado uma série de análises exploratórias e engenharia de atributos de dados logísticos fictícios de um e-commerce, onde foram explorados alguns dados estatísticos como: correlaão entre as variáveis, dimensão da distribuição dos dados, outliers, etc.
